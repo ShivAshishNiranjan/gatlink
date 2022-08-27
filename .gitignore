@@ -1,0 +1,8 @@
+user-files.zip
+logs
+/.idea/
+.DS_Store
+flood.io/advanced/results/
+*.iml
+/gatlinkg/target/*
+
